@@ -13,5 +13,4 @@ The coronavirus or Covid-19 is a large family of viruses that causes illnesses r
 
 #### In India more than 4468 people affected by this Virus as of 6 April,2020. ####
 <br />
-In this project the Dataset used for globally is COVID-19. Here there are so many visualization and comparision of effects of different countries.
-predicted the effect of Coronavirus using Time Series Forecasting.
+In this project the Dataset used for globally is COVID-19. Here are so many visualization and comparision of effects of different countries and finally I predicted the effect of Coronavirus using Time Series Forecasting.
